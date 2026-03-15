@@ -1,10 +1,9 @@
 <h1 style="text-align: center; font-family: 'Fira Code', monospace; font-weight: 500; color: #00f2ff">Bienvenido, soy Alfonso Adiego Luque <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35"></h1>
 
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; margin-top: 20px;">
 <img src="img/alfonso_banner.png" width="1375px" alt="Banner de Alfonso Adiego Luque"/>
 
-
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-<a href="https://github.com/alfonsoadluq?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=3500&pause=500&color=00f2ff&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+GitHub;Desarrollador+de+Software;FullStack+Developer;Enfocado+en+rendimiento+y+ciberseguridad;%C2%A1+No+seas+t%C3%ADmido%2C+mira+mis+proyectos+!" alt="Descripción breve de mi perfil" /></a>
+<a style="text-align: center;" href="https://github.com/alfonsoadluq?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=3500&pause=500&color=00f2ff&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+GitHub;Desarrollador+de+Software;FullStack+Developer;Enfocado+en+rendimiento+y+ciberseguridad;%C2%A1+No+seas+t%C3%ADmido%2C+mira+mis+proyectos+!" alt="Descripción breve de mi perfil" /></a>
 </div>
 
 Soy un estudiante de segundo año de **Desarrollo de Aplicaciones Web**. Me encanta **expandir** mi **conocimiento** sobre el mundo tecnológico, estando siempre abierto al **aprendizaje** de nuevas habilidades y tecnologías. 
