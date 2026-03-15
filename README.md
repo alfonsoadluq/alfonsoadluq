@@ -1,4 +1,7 @@
-<h1 style="text-align: center; font-family: 'Fira Code', monospace; font-weight: 500; color: #00f2ff">Bienvenido, soy Alfonso Adiego Luque <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35"></h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=1000&pause=1000&center=true&vCenter=true&repeat=false&width=600&lines=Bienvenido%2C+soy+Alfonso+Adiego+Luque" alt="Bienvenido, soy Alfonso Adiego Luque"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" style="margin-bottom: 10px;"/>
+</div>
 
 <img src="img/alfonso_banner.png" width="1375px" alt="Banner de Alfonso Adiego Luque"/>
 
