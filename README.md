@@ -3,7 +3,7 @@
 <img src="img/alfonso_banner.png" width="1375px" alt="Banner de Alfonso Adiego Luque"/>
 
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; margin-top: 20px;">
 <a href="https://github.com/alfonsoadluq?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=3500&pause=500&color=00f2ff&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+GitHub;Desarrollador+de+Software;FullStack+Developer;Enfocado+en+rendimiento+y+ciberseguridad;%C2%A1+No+seas+t%C3%ADmido%2C+mira+mis+proyectos+!" alt="Descripción breve de mi perfil" /></a>
 </div>
 
