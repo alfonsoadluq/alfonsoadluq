@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=1500&pause=1000&color=00F2FF&center=true&vCenter=true&repeat=false&width=600&lines=Bienvenido%2C+soy+Alfonso+Adiego+Luque" alt="Bienvenido, soy Alfonso Adiego Luque"/>
-    <img src="img/welcome.gif?raw=true?sanitize=true" width="40" style="margin-bottom: 15px;"/>
+    <img src="img/welcome.gif?sanitize=true&v=1" width="40" style="margin-bottom: 15px;"/>
 </div>
 
 <a href="https://github.com/alfonsoadluq?tab=repositories"><img src="img/alfonso_banner.png" width="100%" alt="Banner de Alfonso Adiego Luque"/></a>
@@ -37,6 +37,7 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 <div align="start">
   <img src="img/lenguajes/html5.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de HTML5" title="HTML5"/>&nbsp;&nbsp;
   <img src="img/lenguajes/css_old.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de CSS3" title="CSS3"/>&nbsp;&nbsp;
+  <img src="img/lenguajes/javascript.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de JavaScript" title="JavaScript"/>&nbsp;&nbsp;
   <img src="img/lenguajes/python.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de Python" title="Python"/>&nbsp;&nbsp;
   <img src="img/lenguajes/php_dark.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de PHP" title="PHP"/>&nbsp;&nbsp;
 </div>
@@ -53,6 +54,8 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 <div align="start">
   <img src="img/ddbb/postgresql.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
   <img src="img/ddbb/mysql-wordmark-dark.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de MySQL" title="MySQL"/>&nbsp;&nbsp;
+  <img src="img/ddbb/mariadb.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de MariaDB" title="MariaDB"/>&nbsp;&nbsp;
+  <img src="img/ddbb/mongodb-icon-dark.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de MongoDB" title="MongoDB"/>&nbsp;&nbsp;
 </div>
 
 ### 🛢️ ***BaaS***
@@ -62,7 +65,10 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ### 🛠️ ***Herramientas de Desarrollo***
 <div align="start">
-  <img src="img/ddbb/supabase.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de Supabase" title="Supabase"/>&nbsp;&nbsp;
+  <img src="img/tools/nodejs.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de Node.js" title="Node.js"/>&nbsp;&nbsp;
+  <img src="img/tools/npm-wordmark.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de NPM" title="NPM"/>&nbsp;&nbsp;
+  <img src="img/tools/pnpm_dark.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de PNPM" title="PNPM"/>&nbsp;&nbsp;
+  <img src="img/tools/bun.svg" width="40" height="40" style="object-fit: contain; cursor: pointer;" alt="Logo de Bun" title="Bun"/>&nbsp;&nbsp;
 </div>
 
 ## **Conéctate conmigo**
