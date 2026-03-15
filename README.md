@@ -49,6 +49,8 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 </br>
 
+<div id="conéctate-conmigo" style="padding-top: 250px; margin-top: -250px;"></div>
+
 ## 📧 **Conéctate conmigo**
 <div align="center">
   <a href="mailto:alfonsoaldev@gmail.com" style="text-decoration: none !important; box-shadow: none !important;">
@@ -68,9 +70,8 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=radical&hide_border=true&langs_count=8&text_color=F0F0EC&icon_color=00F2FF&cache_seconds=0" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&text_color=F0F0EC&icon_color=00F2FF&cache_seconds=0" />
+  [![Alfonso's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&ring_color=D4AF37&layout=donut&card_width=465&custom_title=Lenguajes%20más%20utilizados%20de%20Alfonso%20Adiego%20Luque&cache_seconds=21600&locale=es)](https://github.com/alfonsoadluq/github-readme-stats)
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfonsoadluq&theme=react-dark&area=true&hide_border=true&text_color=F0F0EC&color=00F2FF&line=00F2FF&point=00F2FF&custom_title=Actividad%20de%20Desarrollo&cache_seconds=0" />
+  [![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&ring_color=D4AF37&custom_title=Estadísticas%20de%20Alfonso%20Adiego%20Luque&cache_seconds=21600&locale=es)](https://github.com/alfonsoadluq/github-readme-stats)
 </div>
