@@ -70,12 +70,12 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ###
 <div align="center">
-  <table width="100%" style="border: 0;">
+  <table width="100%" style="border: transparent;">
     <tr>
-      <td align="center" width="50%" style="border: 0;">
+      <td align="center" width="50%" style="border: transparent;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=donut&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&card_width=465&custom_title=Lenguajes%20más%20utilizados&cache_seconds=21600&locale=es" />
       </td>
-      <td align="center" width="50%" style="border: 0;">
+      <td align="center" width="50%" style="border: transparent;">
         <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Alfonso&cache_seconds=21600" />
       </td>
     </tr>
