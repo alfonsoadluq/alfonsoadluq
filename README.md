@@ -68,9 +68,9 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=radical&hide_border=true&langs_count=8&text_color=F0F0EC&icon_color=00F2FF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=radical&hide_border=true&langs_count=8&text_color=F0F0EC&icon_color=00F2FF&cache_seconds=0" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&text_color=F0F0EC&icon_color=00F2FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&text_color=F0F0EC&icon_color=00F2FF&cache_seconds=0" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfonsoadluq&theme=react-dark&area=true&hide_border=true&text_color=F0F0EC&color=00F2FF&line=00F2FF&point=00F2FF&custom_title=Actividad%20de%20Desarrollo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfonsoadluq&theme=react-dark&area=true&hide_border=true&text_color=F0F0EC&color=00F2FF&line=00F2FF&point=00F2FF&custom_title=Actividad%20de%20Desarrollo&cache_seconds=0" />
 </div>
