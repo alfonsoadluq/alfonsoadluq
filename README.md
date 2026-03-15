@@ -39,7 +39,7 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ## 🛠️ **Mi Stack Tecnológico**
 
-|      |      |
+|&nbsp;|&nbsp;|
 | :--- | :--- |
 | <br>**Lenguajes**<br><br> | <br><img src="img/lenguajes/html5.svg" width="45" height="45" style="object-fit: contain;" title="HTML5"/> &nbsp; <img src="img/lenguajes/css_old.svg" width="45" height="45" style="object-fit: contain;" title="CSS3"/> &nbsp; <img src="img/lenguajes/javascript.svg" width="45" height="45" style="object-fit: contain;" title="JavaScript"/> &nbsp; <img src="img/lenguajes/python.svg" width="45" height="45" style="object-fit: contain;" title="Python"/> &nbsp; <img src="img/lenguajes/php_dark.svg" width="45" height="45" style="object-fit: contain;" title="PHP"/><br><br> |
 | <br>**Frameworks**<br><br> | <br><img src="img/lenguajes/frameworks/tailwindcss.svg" width="45" height="45" style="object-fit: contain;" title="Tailwind CSS"/> &nbsp; <img src="img/lenguajes/frameworks/astro-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="Astro"/> &nbsp; <img src="img/lenguajes/frameworks/laravel.svg" width="45" height="45" style="object-fit: contain;" title="Laravel"/> &nbsp; <img src="img/lenguajes/frameworks/Livewire.svg" width="45" height="45" style="object-fit: contain;" title="Livewire"/><br><br> |
@@ -70,8 +70,14 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ###
 <div align="center">
-
-  [![Alfonso's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&ring_color=D4AF37&layout=donut&card_width=465&custom_title=Lenguajes%20más%20utilizados%20de%20Alfonso%20Adiego%20Luque&cache_seconds=21600&locale=es)](https://github.com/alfonsoadluq/github-readme-stats)
-
-  [![Alfonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&ring_color=D4AF37&custom_title=Estadísticas%20de%20Alfonso%20Adiego%20Luque&cache_seconds=21600&locale=es)](https://github.com/alfonsoadluq/github-readme-stats)
+  <table width="100%" style="border: 0;">
+    <tr>
+      <td align="center" width="50%" style="border: 0;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=donut&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&card_width=465&custom_title=Lenguajes%20más%20utilizados&cache_seconds=21600&locale=es" />
+      </td>
+      <td align="center" width="50%" style="border: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Alfonso&cache_seconds=21600" />
+      </td>
+    </tr>
+  </table>
 </div>
