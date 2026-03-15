@@ -50,15 +50,15 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 </br>
 
 ## 📧 **Conéctate conmigo**
-<div align="start">
-  <a href="mailto:alfonsoaldev@gmail.com" target="_blank" title="Enviar un email a Alfonso Adiego Luque">
-    <img align="middle" src="img/gmail.svg" width="35" alt="Email"/>
+<div align="center">
+  <a href="mailto:alfonsoaldev@gmail.com" style="text-decoration: none; border: none;">
+    <img align="middle" src="img/gmail.svg" width="35" style="border: none;"/>
   </a>&ensp;&ensp;
-  <a href="TU_LINK_DE_LINKEDIN" target="_blank" title="Visitar el perfil de LinkedIn de Alfonso Adiego Luque">
-    <img align="middle" src="img/linkedin.svg" width="35" alt="LinkedIn"/>
+  <a href="TU_LINK" style="text-decoration: none; border: none;">
+    <img align="middle" src="img/linkedin.svg" width="35" style="border: none;"/>
   </a>&ensp;&ensp;
-  <a href="https://github.com/alfonsoadluq" target="_blank" title="Visitar el perfil de GitHub de Alfonso Adiego Luque">
-    <img align="middle" src="img/github_dark.svg" width="35" alt="GitHub"/>
+  <a href="https://github.com/alfonsoadluq" style="text-decoration: none; border: none;">
+    <img align="middle" src="img/github_dark.svg" width="35" style="border: none;"/>
   </a>
 </div>
 
