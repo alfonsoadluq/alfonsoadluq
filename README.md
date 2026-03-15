@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=1500&pause=1000&color=00F2FF&center=true&vCenter=true&repeat=false&width=600&lines=Bienvenido%2C+soy+Alfonso+Adiego+Luque" alt="Bienvenido, soy Alfonso Adiego Luque"/>
-    <img src="img/hello.gif?raw=true" width="40" style="margin-bottom: 15px;"/>
+    <img src="img/welcome.gif?raw=true?sanitize=true" width="40" style="margin-bottom: 15px;"/>
 </div>
 
 <a href="https://github.com/alfonsoadluq?tab=repositories"><img src="img/alfonso_banner.png" width="100%" alt="Banner de Alfonso Adiego Luque"/></a>
