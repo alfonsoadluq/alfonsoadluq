@@ -8,7 +8,7 @@
   <a style="text-align: center;" href="https://github.com/alfonsoadluq?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=3500&pause=500&color=00F2FF&center=true&width=500&lines=Bienvenido+a+mi+GitHub;Desarrollador+de+Software;FullStack+Developer;Enfocado+en+rendimiento+y+ciberseguridad;%C2%A1+No+seas+t%C3%ADmido%2C+mira+mis+proyectos+!" alt="Banner de Alfonso Adiego Luque" /></a>
 </div>
 
-Soy un estudiante de segundo año de **Desarrollo de Aplicaciones Web**. 
+Soy un estudiante de segundo año de **Desarrollo de Aplicaciones Web**, formándome con mentalidad de **Ingeniero de Software** y con el **objetivo** claro de **consolidarme** en el sector a través del estudio de la **arquitectura** de software, la **calidad** de código y la **experiencia** técnica. 
 
 Me encanta **expandir** mi **conocimiento** sobre el mundo tecnológico, estando siempre abierto al **aprendizaje** de nuevas habilidades y tecnologías. 
 
