@@ -1,7 +1,5 @@
 <div align="center">
-  <p style="font-size: 2.5em; font-weight: bold; color: #00F2FF;">
-    Bienvenido, soy Alfonso Adiego Luque 👋
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&duration=1000&pause=1000&color=00F2FF&center=true&vCenter=true&repeat=false&width=650&lines=Bienvenido%2C+soy+Alfonso+Adiego+Luque%F0%9F%91%8B" alt="Bienvenido, soy Alfonso Adiego Luque👋" />
 </div>
 
 <a href="https://github.com/alfonsoadluq?tab=repositories"><img src="img/alfonso_banner.png" width="100%" alt="Banner de Alfonso Adiego Luque"/></a>
