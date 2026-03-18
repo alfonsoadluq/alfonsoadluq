@@ -38,14 +38,75 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 </br>
 
 ## 🛠️ **Mi Stack Tecnológico**
-
-|&nbsp;|&nbsp;|
-| :--- | :--- |
-| <br>**Lenguajes**<br><br> | <br><img src="img/lenguajes/html5.svg" width="45" height="45" style="object-fit: contain;" title="HTML5"/> &nbsp; <img src="img/lenguajes/css_old.svg" width="45" height="45" style="object-fit: contain;" title="CSS3"/> &nbsp; <img src="img/lenguajes/javascript.svg" width="45" height="45" style="object-fit: contain;" title="JavaScript"/> &nbsp; <img src="img/lenguajes/python.svg" width="45" height="45" style="object-fit: contain;" title="Python"/> &nbsp; <img src="img/lenguajes/php_dark.svg" width="45" height="45" style="object-fit: contain;" title="PHP"/><br><br> |
-| <br>**Frameworks**<br><br> | <br><img src="img/lenguajes/frameworks/tailwindcss.svg" width="45" height="45" style="object-fit: contain;" title="Tailwind CSS"/> &nbsp; <img src="img/lenguajes/frameworks/astro-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="Astro"/> &nbsp; <img src="img/lenguajes/frameworks/laravel.svg" width="45" height="45" style="object-fit: contain;" title="Laravel"/> &nbsp; <img src="img/lenguajes/frameworks/Livewire.svg" width="45" height="45" style="object-fit: contain;" title="Livewire"/><br><br> |
-| <br>**Bases de Datos**<br><br> | <br><img src="img/ddbb/postgresql.svg" width="45" height="45" style="object-fit: contain;" title="PostgreSQL"/> &nbsp; <img src="img/ddbb/mysql-wordmark-dark.svg" width="45" height="45" style="object-fit: contain;" title="MySQL"/> &nbsp; <img src="img/ddbb/mariadb.svg" width="45" height="45" style="object-fit: contain;" title="MariaDB"/> &nbsp; <img src="img/ddbb/mongodb-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="MongoDB"/><br><br> |
-| <br>**BaaS**<br><br> | <br><img src="img/ddbb/supabase.svg" width="45" height="45" style="object-fit: contain;" title="Supabase"/><br><br> |
-| <br>**Herramientas**<br><br> | <br><img src="img/tools/nodejs.svg" width="45" height="45" style="object-fit: contain;" title="Node.js"/> &nbsp; <img src="img/tools/npm-wordmark.svg" width="45" height="45" style="object-fit: contain;" title="NPM"/> &nbsp; <img src="img/tools/pnpm_dark.svg" width="45" height="45" style="object-fit: contain;" title="PNPM"/> &nbsp; <img src="img/tools/bun.svg" width="45" height="45" style="object-fit: contain;" title="Bun"/><br><br> |
+<table>
+  <tr>
+    <td><strong>Lenguajes</strong></td>
+    <td>
+      <img src="img/lenguajes/html5.svg" width="45" height="45" style="object-fit: contain;" title="HTML5"/> &nbsp;
+      <img src="img/lenguajes/css_old.svg" width="45" height="45" style="object-fit: contain;" title="CSS3"/> &nbsp;
+      <img src="img/lenguajes/javascript.svg" width="45" height="45" style="object-fit: contain;" title="JavaScript"/> &nbsp;
+      <img src="img/lenguajes/python.svg" width="45" height="45" style="object-fit: contain;" title="Python"/> &nbsp;
+      <img src="img/lenguajes/php_dark.svg" width="45" height="45" style="object-fit: contain;" title="PHP"/> &nbsp;
+      <img src="img/lenguajes/c.svg" width="45" height="45" style="object-fit: contain;" title="C"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks</strong></td>
+    <td>
+      <img src="img/lenguajes/frameworks/tailwindcss.svg" width="45" height="45" style="object-fit: contain;" title="Tailwind CSS"/> &nbsp;
+      <img src="img/lenguajes/frameworks/astro-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="Astro"/> &nbsp;
+      <img src="img/lenguajes/frameworks/laravel.svg" width="45" height="45" style="object-fit: contain;" title="Laravel"/> &nbsp;
+      <img src="img/lenguajes/frameworks/Livewire.svg" width="45" height="45" style="object-fit: contain;" title="Livewire"/> &nbsp;
+      <img src="img/lenguajes/frameworks/Alpine-js.svg" width="45" height="45" style="object-fit: contain;" title="Alpine.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Bases de Datos</strong></td>
+    <td>
+      <img src="img/ddbb/postgresql.svg" width="45" height="45" style="object-fit: contain;" title="PostgreSQL"/> &nbsp;
+      <img src="img/ddbb/mysql-wordmark-dark.svg" width="45" height="45" style="object-fit: contain;" title="MySQL"/> &nbsp;
+      <img src="img/ddbb/mariadb.svg" width="45" height="45" style="object-fit: contain;" title="MariaDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>BaaS</strong></td>
+    <td>
+      <img src="img/ddbb/supabase.svg" width="45" height="45" style="object-fit: contain;" title="Supabase"/> &nbsp;
+      <img src="img/ddbb/mongodb-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Cloud / Hosting</strong></td>
+    <td>
+      <img src="img/hosting/aws_dark.svg" width="45" height="45" style="object-fit: contain;" title="AWS"/> &nbsp;
+      <img src="img/hosting/vercel_dark.svg" width="45" height="45" style="object-fit: contain;" title="Vercel"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Control de Versiones</strong></td>
+    <td>
+      <img src="img/tools/git.svg" width="45" height="45" style="object-fit: contain;" title="Git"/> &nbsp;
+      <img src="img/tools/github_dark.svg" width="45" height="45" style="object-fit: contain;" title="GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>CMS</strong></td>
+    <td>
+      <img src="img/tools/wordpress.svg" width="45" height="45" style="object-fit: contain;" title="WordPress"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Herramientas</strong></td>
+    <td>
+      <img src="img/tools/nodejs.svg" width="45" height="45" style="object-fit: contain;" title="Node.js"/> &nbsp;
+      <img src="img/tools/npm-wordmark.svg" width="45" height="45" style="object-fit: contain;" title="NPM"/> &nbsp;
+      <img src="img/tools/pnpm_dark.svg" width="45" height="45" style="object-fit: contain;" title="PNPM"/> &nbsp;
+      <img src="img/tools/bun.svg" width="45" height="45" style="object-fit: contain;" title="Bun"/> &nbsp;
+      <img src="img/tools/yarn.svg" width="45" height="45" style="object-fit: contain;" title="Yarn"/> &nbsp;
+      <img src="img/tools/Composer.svg" width="45" height="45" style="object-fit: contain;" title="Composer"/>
+    </td>
+  </tr>
+</table>
 
 </br>
 
@@ -62,7 +123,7 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
   </a>
   &ensp;&ensp;
   <a href="https://github.com/alfonsoadluq" style="text-decoration: none !important; box-shadow: none !important;">
-    <img src="img/github_dark.svg" width="35" style="border: none !important; box-shadow: none !important; vertical-align: middle;"/>
+    <img src="img/tools/github_dark.svg" width="35" style="border: none !important; box-shadow: none !important; vertical-align: middle;"/>
   </a>
 </div>
 
