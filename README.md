@@ -131,14 +131,9 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ###
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0;">
-    <tr>
-      <td align="center" style="border: none; padding: 0 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Lenguajes%20más%20utilizados&langs_count=5&locale=es&cache_seconds=300" height="195" />
-      </td>
-      <td align="center" style="border: none; padding: 0 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Alfonso&cache_seconds=300" height="195" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Lenguajes%20más%20utilizados&langs_count=5&locale=es&card_width=390" />
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Alfonso&card_width=390" />
 </div>
