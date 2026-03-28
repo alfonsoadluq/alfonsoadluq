@@ -118,7 +118,7 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
     <img src="img/gmail.svg" width="35" style="border: none !important; box-shadow: none !important; vertical-align: middle;"/>
   </a>
   &ensp;&ensp;
-  <a href="https://linkedin.com/in/alfonsoaldev" style="text-decoration: none !important; box-shadow: none !important;">
+  <a href="https://www.linkedin.com/in/alfonso-adiego-luque/" style="text-decoration: none !important; box-shadow: none !important;">
     <img src="img/linkedin.svg" width="35" style="border: none !important; box-shadow: none !important; vertical-align: middle;"/>
   </a>
   &ensp;&ensp;
@@ -133,7 +133,7 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Lenguajes%20más%20utilizados&langs_count=5&locale=es&card_width=390" />
   
-  <br><br>
+  <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Alfonso&card_width=390" />
 </div>
