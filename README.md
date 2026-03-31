@@ -16,7 +16,7 @@ Soy un apasionado de la **creación** de proyectos **creativos** e **innovadores
 
 Mi objetivo es seguir desarrollando mis habilidades y **contribuir** a la creación de software, con proyectos **creativos**, **útiles** y **open source**.
 
-Puedes visitar mi **web personal** para conocer más sobre mí y mis proyectos: **[alfonsoaldev.com](https://alfonsoaldev.com)**
+Puedes visitar mi **web personal** para conocer más sobre mí y mis proyectos: **[alfonsoaldev.com](https://alfonsoaldev.vercel.app/)**
 
 Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[¡Contáctame!](#conéctate-conmigo)**
 
