@@ -130,10 +130,10 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 </br>
 
 ###
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Lenguajes%20más%20utilizados&langs_count=5&locale=es&card_width=390" />
   
   <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Alfonso&card_width=390" />
-</div>
+</div>-->
