@@ -24,8 +24,9 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ## ⭐️ **Últimos proyectos**
 
-### ***KitKeeper*** (En desarrollo)
-- 💻 Aplicación web construida en Laravel, enfocada en la **organización** y **control** del **material tecnológico** en el ámbito educativo.
+### ***KitKeeper Refreshed*** (En desarrollo)
+- 🔄️ Mejora completa de la aplicación de gestión de préstamos de material tecnológico en el ámbito educativo, con un enfoque renovado en la **organización**, **control** y **seguridad**.
+- 💻 Aplicación construida con Laravel y React, enfocada en la **organización** y **control** del **material tecnológico** en el ámbito educativo.
 - 📋 Dividida en **roles**: administrador, técnico, profesor y estudiante. Cuenta con un **sistema** de **gestión** de préstamos, devoluciones y reportes de incidencias, **divididos** en turnos de **mañana** y **tarde**.
 - 🛠️ Implementación de **encriptado argon2id + Supabase** para seguridad, control de acceso mediante **roles aislados**, y técnicas de optimización avanzadas.
 - 🚀 Arquitectura de base de datos  **PostgreSQL de hiper-escala**, diseñada para soportar **datos masivos** sin perder rendimiento. Incorpora *tuning* avanzado para hardware SSD/NVMe, **índices de alto rendimiento** (BRIN, GIN, parciales y *covering*) y estrategias de reducción de I/O (*HOT updates*, *fillfactor* dinámico).
@@ -57,7 +58,6 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
       <img src="img/lenguajes/frameworks/astro-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="Astro"/> &nbsp;
       <img src="img/lenguajes/frameworks/laravel.svg" width="45" height="45" style="object-fit: contain;" title="Laravel"/> &nbsp;
       <img src="img/lenguajes/frameworks/Livewire.svg" width="45" height="45" style="object-fit: contain;" title="Livewire"/> &nbsp;
-      <img src="img/lenguajes/frameworks/Alpine-js.svg" width="45" height="45" style="object-fit: contain;" title="Alpine.js"/>
     </td>
   </tr>
   <tr>
@@ -126,14 +126,3 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
     <img src="img/tools/github_dark.svg" width="35" style="border: none !important; box-shadow: none !important; vertical-align: middle;"/>
   </a>
 </div>
-
-</br>
-
-###
-<!--<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfonsoadluq&layout=compact&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Lenguajes%20más%20utilizados&langs_count=5&locale=es&card_width=390" />
-  
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=alfonsoadluq&show_icons=true&theme=dracula&hide_border=true&icon_color=00F2FF&title_color=00F2FF&text_color=F0F0EC&custom_title=Estadísticas%20de%20Alfonso&card_width=390" />
-</div>-->
