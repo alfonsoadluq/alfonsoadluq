@@ -19,7 +19,15 @@ Mi objetivo es seguir desarrollando mis habilidades y **contribuir** a la creaci
 Puedes visitar mi **web personal** para conocer más sobre mí y mis proyectos: **[alfonsoaldev.com](https://alfonsoaldev.vercel.app/)**
 
 Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[¡Contáctame!](#conéctate-conmigo)**
+</br>
 
+## 📌 **Últimas novedades**
+
+### [**Mi portfolio**](https://alfonsoaldev.vercel.app/)
+- 🚀 He lanzado mi **portfolio personal** en **[alfonsoaldev.vercel.app](https://alfonsoaldev.vercel.app/)**, donde comparto mis proyectos, habilidades y experiencia. ¡Echa un vistazo para conocer más sobre mí y mis trabajos!
+
+### [**Katas Sandbox**](https://github.com/alfonsoadluq/katas-sandbox)
+- 📚 Este repositorio es un **recurso educativo** diseñado para ayudarte a **aprender y practicar** habilidades de programación junto a mí. Aquí encontrarás una **serie de ejercicios** para practicar y mejorar tu lógica de programación en **distintos lenguajes**.
 </br>
 
 ## ⭐️ **Últimos proyectos**
@@ -30,16 +38,6 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 - 📋 Dividida en **roles**: administrador, técnico, profesor y estudiante. Cuenta con un **sistema** de **gestión** de préstamos, devoluciones y reportes de incidencias, **divididos** en turnos de **mañana** y **tarde**.
 - 🛠️ Implementación de **encriptado argon2id + Supabase** para seguridad, control de acceso mediante **roles aislados**, y técnicas de optimización avanzadas.
 - 🚀 Arquitectura de base de datos  **PostgreSQL de hiper-escala**, diseñada para soportar **datos masivos** sin perder rendimiento. Incorpora *tuning* avanzado para hardware SSD/NVMe, **índices de alto rendimiento** (BRIN, GIN, parciales y *covering*) y estrategias de reducción de I/O (*HOT updates*, *fillfactor* dinámico).
-
-</br>
-
-## 📌 **Últimas novedades**
-
-### [**Mi portfolio**](https://alfonsoaldev.vercel.app/)
-- 🚀 He lanzado mi **portfolio personal** en **[alfonsoaldev.vercel.app](https://alfonsoaldev.vercel.app/)**, donde comparto mis proyectos, habilidades y experiencia. ¡Echa un vistazo para conocer más sobre mí y mis trabajos!
-
-### [**Katas Sandbox**](https://github.com/alfonsoadluq/katas-sandbox)
-- 📚 Este repositorio es un **recurso educativo** diseñado para ayudarte a **aprender y practicar** habilidades de programación junto a mí. Aquí encontrarás una **serie de ejercicios** para practicar y mejorar tu lógica de programación en **distintos lenguajes**.
 </br>
 
 ## 🛠️ **Mi Stack Tecnológico**
