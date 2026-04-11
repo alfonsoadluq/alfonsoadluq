@@ -38,8 +38,8 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 ### [**Mi portfolio**](https://alfonsoaldev.vercel.app/)
 - 🚀 He lanzado mi **portfolio personal** en **[alfonsoaldev.vercel.app](https://alfonsoaldev.vercel.app/)**, donde comparto mis proyectos, habilidades y experiencia. ¡Echa un vistazo para conocer más sobre mí y mis trabajos!
 
-### [**Learning Sandbox**](https://github.com/alfonsoaldev/Learning-Sandbox)
-- 📚 Este cuadernillo es un **recurso educativo** diseñado para ayudarte a **aprender y practicar** habilidades de programación junto a mí. Aquí encontrarás una **serie de ejercicios** para practicar y mejorar tu lógica de programación en **distintos lenguajes**.
+### [**Katas Sandbox**](https://github.com/alfonsoadluq/katas-sandbox)
+- 📚 Este repositorio es un **recurso educativo** diseñado para ayudarte a **aprender y practicar** habilidades de programación junto a mí. Aquí encontrarás una **serie de ejercicios** para practicar y mejorar tu lógica de programación en **distintos lenguajes**.
 </br>
 
 ## 🛠️ **Mi Stack Tecnológico**
