@@ -60,6 +60,7 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
       <img src="img/lenguajes/frameworks/astro-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="Astro"/> &nbsp;
       <img src="img/lenguajes/frameworks/laravel.svg" width="45" height="45" style="object-fit: contain;" title="Laravel"/> &nbsp;
       <img src="img/lenguajes/frameworks/Livewire.svg" width="45" height="45" style="object-fit: contain;" title="Livewire"/> &nbsp;
+      <img src="img/lenguajes/frameworks/Next.js.svg" width="45" height="45" style="object-fit: contain;" title="NextJs"/> &nbsp;
     </td>
   </tr>
   <tr>
