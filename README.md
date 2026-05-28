@@ -23,16 +23,15 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
 
 ## 📌 **Últimas novedades**
 
-### [**Mi portfolio**](https://alfonsoaldev.vercel.app/)
-- 🚀 He lanzado mi **portfolio personal**, **[alfonsoaldev](https://alfonsoaldev.vercel.app/)**, donde comparto mis proyectos, habilidades y experiencia. ¡Echa un vistazo para conocer más sobre mí y mis trabajos!
+### [**KitKeeper**](https://github.com/alfonsoadluq/kitkeeper)
+- 📚 KitKeeper es una aplicación web de código abierto diseñada para optimizar la digitalización, el control y la organización de los recursos tecnológicos en el ámbito educativo. 
 
-### [**Katas Sandbox**](https://github.com/alfonsoadluq/katas-sandbox)
-- 📚 Este repositorio es un **recurso educativo** diseñado para ayudarte a **aprender y practicar** habilidades de programación junto a mí. Aquí encontrarás una **serie de ejercicios** para practicar y mejorar tu lógica de programación en **distintos lenguajes**.
+La aplicación facilita la gestión y trazabilidad del inventario de dispositivos, integrando el control de accesos y asignaciones tanto de estudiantes como de personal docente por aulas y grupos de trabajo.
 </br>
 
 ## ⭐️ **Últimos proyectos**
 
-### ***KitKeeper Refreshed*** (En desarrollo)
+### ***KitKeeper*** (En desarrollo)
 - 🔄️ Mejora completa de la aplicación de gestión de préstamos de material tecnológico en el ámbito educativo, con un enfoque renovado en la **organización**, **control** y **seguridad**.
 - 💻 Aplicación construida con Laravel y React, enfocada en la **organización** y **control** del **material tecnológico** en el ámbito educativo.
 - 📋 Dividida en **roles**: administrador, técnico, profesor y estudiante. Cuenta con un **sistema** de **gestión** de préstamos, devoluciones y reportes de incidencias, **divididos** en turnos de **mañana** y **tarde**.
@@ -45,19 +44,21 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
   <tr>
     <td><strong>Lenguajes</strong></td>
     <td>
-      <img src="img/lenguajes/html5.svg" width="45" height="45" style="object-fit: contain;" title="HTML5"/> &nbsp;
-      <img src="img/lenguajes/css_old.svg" width="45" height="45" style="object-fit: contain;" title="CSS3"/> &nbsp;
-      <img src="img/lenguajes/javascript.svg" width="45" height="45" style="object-fit: contain;" title="JavaScript"/> &nbsp;
-      <img src="img/lenguajes/python.svg" width="45" height="45" style="object-fit: contain;" title="Python"/> &nbsp;
-      <img src="img/lenguajes/php_dark.svg" width="45" height="45" style="object-fit: contain;" title="PHP"/> &nbsp;
-      <img src="img/lenguajes/c.svg" width="45" height="45" style="object-fit: contain;" title="C"/>
+      <img src="img/lenguajes/vanilla/html5.svg" width="45" height="45" style="object-fit: contain;" title="HTML5"/> &nbsp;
+      <img src="img/lenguajes/vanilla/css_old.svg" width="45" height="45" style="object-fit: contain;" title="CSS3"/> &nbsp;
+      <img src="img/lenguajes/vanilla/javascript.svg" width="45" height="45" style="object-fit: contain;" title="JavaScript"/> &nbsp;
+      <img src="img/lenguajes/vanilla/typescript.svg" width="45" height="45" style="object-fit: contain;" title="TypeScript"/>&nbsp;
+      <img src="img/lenguajes/vanilla/python.svg" width="45" height="45" style="object-fit: contain;" title="Python"/> &nbsp;
+      <img src="img/lenguajes/vanilla/php_dark.svg" width="45" height="45" style="object-fit: contain;" title="PHP"/> &nbsp;
+      <img src="img/lenguajes/vanilla/c.svg" width="45" height="45" style="object-fit: contain;" title="C"/>&nbsp;
     </td>
   </tr>
   <tr>
     <td><strong>Frameworks</strong></td>
     <td>
-      <img src="img/lenguajes/frameworks/tailwindcss.svg" width="45" height="45" style="object-fit: contain;" title="Tailwind CSS"/> &nbsp;
       <img src="img/lenguajes/frameworks/astro-icon-dark.svg" width="45" height="45" style="object-fit: contain;" title="Astro"/> &nbsp;
+      <img src="img/lenguajes/frameworks/react_dark.svg" width="45" height="45" style="object-fit: contain;" title="React"/> &nbsp;
+      <img src="img/lenguajes/frameworks/tailwindcss.svg" width="45" height="45" style="object-fit: contain;" title="Tailwind CSS"/> &nbsp;
       <img src="img/lenguajes/frameworks/laravel.svg" width="45" height="45" style="object-fit: contain;" title="Laravel"/> &nbsp;
       <img src="img/lenguajes/frameworks/Livewire.svg" width="45" height="45" style="object-fit: contain;" title="Livewire"/> &nbsp;
       <img src="img/lenguajes/frameworks/Next.js.svg" width="45" height="45" style="object-fit: contain;" title="NextJs"/> &nbsp;
@@ -93,20 +94,10 @@ Si quieres **contactarme**, puedes hacerlo a través de una de estas vías: **[�
     </td>
   </tr>
   <tr>
-    <td><strong>CMS</strong></td>
+    <td><strong>Otro</strong></td>
     <td>
       <img src="img/tools/wordpress.svg" width="45" height="45" style="object-fit: contain;" title="WordPress"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Herramientas</strong></td>
-    <td>
       <img src="img/tools/nodejs.svg" width="45" height="45" style="object-fit: contain;" title="Node.js"/> &nbsp;
-      <img src="img/tools/npm-wordmark.svg" width="45" height="45" style="object-fit: contain;" title="NPM"/> &nbsp;
-      <img src="img/tools/pnpm_dark.svg" width="45" height="45" style="object-fit: contain;" title="PNPM"/> &nbsp;
-      <img src="img/tools/bun.svg" width="45" height="45" style="object-fit: contain;" title="Bun"/> &nbsp;
-      <img src="img/tools/yarn.svg" width="45" height="45" style="object-fit: contain;" title="Yarn"/> &nbsp;
-      <img src="img/tools/Composer.svg" width="45" height="45" style="object-fit: contain;" title="Composer"/>
     </td>
   </tr>
 </table>
